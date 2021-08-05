@@ -1,2 +1,2 @@
 # go-scm-contacts
-DomainDrivenDesign SCm Contacts
+DomainDrivenDesign SCM Contacts
